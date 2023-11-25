@@ -5,7 +5,7 @@ A collection of my data visualization and analysis projects from undergraduate s
 
 * This is an assignment for ARE 115A: Economic Development
 * Software used: Excel
-* Skills:
+* Skills: Predicting preferred interest rates, expected value, risk evaluation
 * The Assignment Write-up: (https://drive.google.com/file/d/1-V6SN_fZbZp4nB77lK9JVyESo0XFiRsC/view?usp=sharing)
 
   ![](images/linegraph_Excel.png)
