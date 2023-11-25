@@ -5,7 +5,7 @@ A collection of my data visualization and analysis projects from undergraduate s
 
 * This is an assignment for ARE 115A: Economic Development
 * Software used: Excel
-* Concepts/Skills used:
+* Skills:
 * The Assignment Write-up: (link)
 
 
@@ -13,7 +13,7 @@ A collection of my data visualization and analysis projects from undergraduate s
 
 * This is an assignment for ARE 106: Econometric Theory & Applications 
 * Software used: STATA
-* Skills: Linear Regressions, Hedonic Price Modeling, Solving for Heteroskedasticity
+* Skills: Linear Regression, Hedonic Price Modeling, Solving for Heteroskedasticity
 * The Assignment Write-up (https://drive.google.com/file/d/1RbJ9YlzAuLFhoQQxJF2z_8Jt9nDZwpzj/view?usp=drive_link)
 
 
