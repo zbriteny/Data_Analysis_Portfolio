@@ -8,7 +8,7 @@ A collection of my data visualization and analysis projects from undergraduate s
 * Skills:
 * The Assignment Write-up: (link)
 
-  ![] (linegraph_Excel.png)
+  ![] (images/linegraph_Excel.png)
 
 
 ## Project 2: Hedonic Analysis of House Prices
