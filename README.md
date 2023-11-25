@@ -21,5 +21,5 @@ A collection of my data visualization and analysis projects from undergraduate s
 
 * This is an assignment for POL 51: Scientific of Politics
 * Software used: R
-* Skills: Creating graphs (box plot and scatterplot), creating random number generator
+* Skills: Creating graphs, Random Number Generator
 * The Assignment Write-up (https://docs.google.com/document/d/1G_vT3wZc8JHLmWpuILoKL1WVPgrp6P1ldXrIjqWvv7E/edit)
